@@ -1,0 +1,13 @@
+services:
+  dashboard:
+    build: .
+    ports:
+      - "8501:8501"
+    volumes:
+      - ./data:/app/data:ro
+  refresh:
+    build: .
+    profiles: ["refresh"]
+    command: ["python", "-m", "src.pipeline", "--allow-stale-sites"]
+    volumes:
+      - ./data:/app/data

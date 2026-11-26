@@ -1,0 +1,17 @@
+services:
+  airflow:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    command: standalone
+    ports:
+      - '8080:8080'
+    environment:
+      AIRFLOW__CORE__DAGS_FOLDER: /opt/airflow/dags
+      PYTHONPATH: /opt/airflow/brest
+    volumes:
+      - ../dags:/opt/airflow/dags:ro
+      - ../:/opt/airflow/brest
+      - airflow_state:/opt/airflow
+volumes:
+  airflow_state:

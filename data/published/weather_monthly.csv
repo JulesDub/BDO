@@ -1,0 +1,10 @@
+year_month,dataset,days,avg_max_c,total_rain_mm,avg_outdoor_score
+2026-05,history,8,26.6,0.1,91.3
+2026-06,history,30,21.6,58.3,68.5
+2026-07,history,31,26.5,15.8,83.5
+2026-08,history,31,23.6,73.3,76.7
+2026-09,history,30,20.7,51.3,83.7
+2026-10,history,31,16.4,125.5,55.7
+2026-11,forecast,5,12.3,24.8,56.0
+2026-11,history,19,12.9,100.4,52.4
+2026-12,forecast,2,13.2,62.1,10.5

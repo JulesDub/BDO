@@ -1,0 +1,42 @@
+{
+  "run_id": "2026-11-26-257cd2ef",
+  "status": "success",
+  "started_at_utc": "2026-11-25T23:39:26+00:00",
+  "completed_at_utc": "2026-11-25T23:40:04+00:00",
+  "reference_day_local": "2026-11-26",
+  "source": {
+    "weather_history": "https://archive-api.open-meteo.com/v1/archive",
+    "weather_forecast": "https://api.open-meteo.com/v1/forecast",
+    "sites": "https://ovp.dresel.systems/api/interpreter",
+    "sites_license": "OpenStreetMap contributors — ODbL",
+    "weather_license": "Open-Meteo — CC BY 4.0",
+    "sites_fallback": false,
+    "sites_error": null
+  },
+  "quality": {
+    "weather": {
+      "status": "passed",
+      "rows": 187,
+      "duplicate_keys": 0,
+      "missing_measurements": 0,
+      "measurement_completeness_pct": 100.0,
+      "history_rows": 180,
+      "forecast_rows": 7
+    },
+    "sites": {
+      "status": "passed",
+      "rows": 393,
+      "duplicate_ids": 0,
+      "categories": 6,
+      "named_records_pct": 100.0,
+      "website_pct": 5.85
+    }
+  },
+  "export_rows": {
+    "weather_daily.csv": 187,
+    "sites.csv": 393,
+    "weather_monthly.csv": 9,
+    "sites_by_category.csv": 6,
+    "forecast.csv": 7
+  }
+}

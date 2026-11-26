@@ -1,0 +1,394 @@
+site_id,name,category,latitude,longitude,website,osm_url
+way/998872051,Océanopolis,Aquariums,48.389971,-4.436154,https://www.oceanopolis.com/,https://www.openstreetmap.org/way/998872051
+way/356798560,Abeille Bourbon,Attractions,48.3816285,-4.4814896,,https://www.openstreetmap.org/way/356798560
+node/440188600,Abri Sadi-Carnot,Attractions,48.3850869,-4.4903375,,https://www.openstreetmap.org/node/440188600
+node/13948385993,Abri Sadi-Carnot,Attractions,48.3850488,-4.4903779,,https://www.openstreetmap.org/node/13948385993
+way/525143992,Aquapistol,Attractions,48.4747817,-4.5269083,,https://www.openstreetmap.org/way/525143992
+way/525142495,Baron Rouge,Attractions,48.4709354,-4.529355,,https://www.openstreetmap.org/way/525142495
+way/522458255,Bataille d'eau,Attractions,48.4707383,-4.5288423,,https://www.openstreetmap.org/way/522458255
+node/8450617993,Canot de l'Empereur,Attractions,48.3899379,-4.4979323,,https://www.openstreetmap.org/node/8450617993
+way/522458257,Carrousel,Attractions,48.4750246,-4.5268829,,https://www.openstreetmap.org/way/522458257
+relation/2443750,Château de Brest,Attractions,48.3817544,-4.4937724,,https://www.openstreetmap.org/relation/2443750
+node/444458555,Château de Keralias,Attractions,48.4827187,-4.3703439,,https://www.openstreetmap.org/node/444458555
+way/379654557,Cinema 6D,Attractions,48.4744756,-4.5267372,,https://www.openstreetmap.org/way/379654557
+node/539372757,Croix de Kerezec,Attractions,48.4477852,-4.6707418,,https://www.openstreetmap.org/node/539372757
+node/539372762,Croix du Gavre,Attractions,48.4431981,-4.665104,,https://www.openstreetmap.org/node/539372762
+node/13602316802,Drakkars,Attractions,48.4707756,-4.5246839,,https://www.openstreetmap.org/node/13602316802
+way/804742002,Fontaine Saint-Sané,Attractions,48.3769108,-4.6163593,,https://www.openstreetmap.org/way/804742002
+way/89119411,Fontaine de la Vierge,Attractions,48.4338415,-4.2257233,,https://www.openstreetmap.org/way/89119411
+way/806192760,Fontaine lavoir de Lesconvel,Attractions,48.3566049,-4.6279685,,https://www.openstreetmap.org/way/806192760
+way/522458256,Grande Roue,Attractions,48.4701783,-4.5281147,,https://www.openstreetmap.org/way/522458256
+node/13602317003,Jeepo dino,Attractions,48.4746452,-4.5264459,,https://www.openstreetmap.org/node/13602317003
+node/12050886571,L'hélice de l'Abeille Flandre,Attractions,48.3818598,-4.48912,,https://www.openstreetmap.org/node/12050886571
+way/458998050,La Pieuvre,Attractions,48.4710862,-4.5249798,,https://www.openstreetmap.org/way/458998050
+way/356798573,La Recouvrance,Attractions,48.3802946,-4.486667,https://www.larecouvrance.com,https://www.openstreetmap.org/way/356798573
+way/525143990,La chevauchée sauvage,Attractions,48.4746888,-4.5270143,,https://www.openstreetmap.org/way/525143990
+node/1306046458,Lavoir,Attractions,48.3795487,-4.6242056,,https://www.openstreetmap.org/node/1306046458
+way/115649942,Lavoir,Attractions,48.3768419,-4.6163115,,https://www.openstreetmap.org/way/115649942
+way/682145340,Lavoir,Attractions,48.3699443,-4.5855679,,https://www.openstreetmap.org/way/682145340
+node/539380573,Lavoir de Kerveatouz,Attractions,48.4331229,-4.6618173,,https://www.openstreetmap.org/node/539380573
+way/523080625,Le Galion des Pirates,Attractions,48.4710669,-4.5266408,,https://www.openstreetmap.org/way/523080625
+relation/9903346,Le Niagara,Attractions,48.4700026,-4.5287666,,https://www.openstreetmap.org/relation/9903346
+way/1188745965,Le Train de la Mine,Attractions,48.4727271,-4.5266759,,https://www.openstreetmap.org/way/1188745965
+way/523080615,Le rêve d'Icare,Attractions,48.4714187,-4.5245066,,https://www.openstreetmap.org/way/523080615
+way/523080623,Les Tasses,Attractions,48.4707686,-4.5272564,,https://www.openstreetmap.org/way/523080623
+node/13602317002,Les grenouilles,Attractions,48.4709023,-4.5295851,,https://www.openstreetmap.org/node/13602317002
+node/13602316901,Les teufs-teufs,Attractions,48.4717184,-4.5256076,,https://www.openstreetmap.org/node/13602316901
+node/539370226,Lit de Saint-Renan,Attractions,48.4514,-4.6645406,,https://www.openstreetmap.org/node/539370226
+way/458998051,Mambo,Attractions,48.4723324,-4.5258087,,https://www.openstreetmap.org/way/458998051
+node/474655170,Menhir de Kerloas,Attractions,48.4265932,-4.6793393,,https://www.openstreetmap.org/node/474655170
+node/3634674402,Paroles d'auteurs sur Brest,Attractions,48.3828514,-4.5147103,,https://www.openstreetmap.org/node/3634674402
+node/13602317001,Penn drag,Attractions,48.4706547,-4.5249253,,https://www.openstreetmap.org/node/13602317001
+node/1831434070,Pointe des Espagnols,Attractions,48.3417768,-4.5318641,,https://www.openstreetmap.org/node/1831434070
+way/178678410,River Splash,Attractions,48.4709413,-4.5262505,,https://www.openstreetmap.org/way/178678410
+node/10176185217,Spot escalade Evidens (bloc),Attractions,48.3720275,-4.4136951,,https://www.openstreetmap.org/node/10176185217
+node/13602316801,TRÉMOR,Attractions,48.4718476,-4.5259705,,https://www.openstreetmap.org/node/13602316801
+way/525142493,Tchou Tchou Moutig,Attractions,48.470963,-4.5291325,,https://www.openstreetmap.org/way/525142493
+way/992581949,Vertika,Attractions,48.4704513,-4.5246927,,https://www.openstreetmap.org/way/992581949
+node/440188628,Villa Crosnier,Attractions,48.3837946,-4.4876057,,https://www.openstreetmap.org/node/440188628
+way/53997055,Église Saint-Éloi,Attractions,48.3152313,-4.5484313,,https://www.openstreetmap.org/way/53997055
+way/42531856,A3 Studio la Galerie,Galeries,48.3869451,-4.4721444,,https://www.openstreetmap.org/way/42531856
+node/13853069611,Atelier 230,Galeries,48.4000199,-4.4712601,,https://www.openstreetmap.org/node/13853069611
+node/11210950958,Créations Libres,Galeries,48.3991493,-4.4725692,,https://www.openstreetmap.org/node/11210950958
+node/12452839042,Galerie Alain Hélou,Galeries,48.3863377,-4.4890394,,https://www.openstreetmap.org/node/12452839042
+node/11972483731,Galerie Notre-Dame,Galeries,48.4328952,-4.6234531,,https://www.openstreetmap.org/node/11972483731
+node/10229093765,Galerie Thomas Godin,Galeries,48.4510848,-4.2516287,,https://www.openstreetmap.org/node/10229093765
+node/8869005700,Galerie de Rohan,Galeries,48.4490893,-4.2489939,https://galeriederohan.landerneau.bzh/,https://www.openstreetmap.org/node/8869005700
+node/9180942557,L'Obèle,Galeries,48.4499654,-4.2483977,,https://www.openstreetmap.org/node/9180942557
+node/12239768752,L'UrbaTIPiK,Galeries,48.4498799,-4.2486057,,https://www.openstreetmap.org/node/12239768752
+node/11210950954,"La piscine, lieu d'art et rencontre",Galeries,48.3975306,-4.4750206,,https://www.openstreetmap.org/node/11210950954
+node/440188596,Le Comœdia,Galeries,48.3853099,-4.4882971,https://www.artcomoedia.fr,https://www.openstreetmap.org/node/440188596
+node/11205683304,Les Ovnis,Galeries,48.3967131,-4.4762696,https://lesovnisbrest.wixsite.com/les-ovnis,https://www.openstreetmap.org/node/11205683304
+node/13673972217,L’atelier,Galeries,48.3963198,-4.478014,,https://www.openstreetmap.org/node/13673972217
+node/12993183482,Musée des mômes,Galeries,48.387845,-4.4854177,,https://www.openstreetmap.org/node/12993183482
+way/42577168,Ramine,Galeries,48.3879188,-4.4927972,,https://www.openstreetmap.org/way/42577168
+node/9897037922,Rive Droite,Galeries,48.3842872,-4.501411,,https://www.openstreetmap.org/node/9897037922
+node/12610062902,Sandrine Peron,Galeries,48.3855601,-4.4897433,,https://www.openstreetmap.org/node/12610062902
+node/10543068907,1,Information touristique,48.4190175,-4.2500889,,https://www.openstreetmap.org/node/10543068907
+node/12467567283,2020 Le retour des Pirogues,Information touristique,48.3160352,-4.2865289,,https://www.openstreetmap.org/node/12467567283
+node/10543068908,3,Information touristique,48.4189552,-4.2499736,,https://www.openstreetmap.org/node/10543068908
+node/10543077010,3,Information touristique,48.4157108,-4.246244,,https://www.openstreetmap.org/node/10543077010
+node/10543077009,4,Information touristique,48.4189801,-4.2498019,,https://www.openstreetmap.org/node/10543077009
+node/10543077011,4,Information touristique,48.4156663,-4.246079,,https://www.openstreetmap.org/node/10543077011
+node/6736512412,An Douar Bihan,Information touristique,48.3585446,-4.3403649,,https://www.openstreetmap.org/node/6736512412
+node/6513129703,Batterie Basse de Cornouaille (Vauban),Information touristique,48.3283785,-4.5703293,,https://www.openstreetmap.org/node/6513129703
+node/11107184606,Belvédère Cesária Évoria,Information touristique,48.3901507,-4.4975827,,https://www.openstreetmap.org/node/11107184606
+node/11225428385,Bienvenue à Pencran,Information touristique,48.4344993,-4.2350211,,https://www.openstreetmap.org/node/11225428385
+node/6744790764,Bois de l’Ermitage,Information touristique,48.3360796,-4.2332947,,https://www.openstreetmap.org/node/6744790764
+node/11671726369,Breizhgo,Information touristique,48.387228,-4.4832061,,https://www.openstreetmap.org/node/11671726369
+node/7639870983,Brest Centre-Ville,Information touristique,48.3913972,-4.4886059,,https://www.openstreetmap.org/node/7639870983
+node/12231361099,Camp ou Oppidum,Information touristique,48.4036103,-4.2650536,,https://www.openstreetmap.org/node/12231361099
+node/13800012921,Carrefour des Sept Saints,Information touristique,48.3623865,-4.2621716,,https://www.openstreetmap.org/node/13800012921
+node/3808301823,Carte des Peuplements de Creac'h ar Roual,Information touristique,48.4123842,-4.2457939,,https://www.openstreetmap.org/node/3808301823
+node/11484277322,Centre de Moulin-Mer,Information touristique,48.3183968,-4.2845188,,https://www.openstreetmap.org/node/11484277322
+node/13043415941,Chapelle Saint-Yves,Information touristique,48.4309884,-4.6219197,,https://www.openstreetmap.org/node/13043415941
+node/12834022621,Chapelle et fontaine de La Trinité,Information touristique,48.3703868,-4.5859199,,https://www.openstreetmap.org/node/12834022621
+node/13124458214,Circuit Sainte-Christine - Toull ar Ranig,Information touristique,48.3669972,-4.3728776,,https://www.openstreetmap.org/node/13124458214
+node/11144876518,Circuit de Boloré,Information touristique,48.4980222,-4.2239907,,https://www.openstreetmap.org/node/11144876518
+node/12561307685,Circuit de Boloré,Information touristique,48.4859261,-4.2446313,,https://www.openstreetmap.org/node/12561307685
+node/12561753245,Circuit de Boloré,Information touristique,48.492409,-4.2389159,,https://www.openstreetmap.org/node/12561753245
+node/11142477148,Circuit de Kerliver à la Mer,Information touristique,48.3053452,-4.2215726,,https://www.openstreetmap.org/node/11142477148
+node/11151445426,Circuit de Kerliver à la mer,Information touristique,48.3134402,-4.2067606,,https://www.openstreetmap.org/node/11151445426
+node/9463577891,Circuit de Landrevezen,Information touristique,48.3563653,-4.2982976,,https://www.openstreetmap.org/node/9463577891
+node/12333392589,Circuit de Rostiviec,Information touristique,48.3464686,-4.325646,,https://www.openstreetmap.org/node/12333392589
+node/9492979161,Circuit des Pâquerettes- Boucle de 8.2 Km,Information touristique,48.4112599,-4.2447735,,https://www.openstreetmap.org/node/9492979161
+node/14093285005,Circuit des Terres du Roual,Information touristique,48.3983685,-4.2690594,,https://www.openstreetmap.org/node/14093285005
+node/7688789483,Circuit numéro 2,Information touristique,48.3580046,-4.3397509,,https://www.openstreetmap.org/node/7688789483
+node/7688807485,Circuit numéro 2,Information touristique,48.3543162,-4.3400465,,https://www.openstreetmap.org/node/7688807485
+node/13832174099,Coat Mez,Information touristique,48.4351041,-4.2995539,,https://www.openstreetmap.org/node/13832174099
+node/12451110523,Connecté au monde. L'anse de Déolen,Information touristique,48.3474942,-4.6399174,,https://www.openstreetmap.org/node/12451110523
+node/13043415927,Contournement du lac de la Comiren,Information touristique,48.4362235,-4.6219382,,https://www.openstreetmap.org/node/13043415927
+node/13124458216,Danger Biologique,Information touristique,48.3661279,-4.3791474,,https://www.openstreetmap.org/node/13124458216
+node/11694406535,Des abris pour tous,Information touristique,48.3864331,-4.4829383,,https://www.openstreetmap.org/node/11694406535
+node/12208616911,Des plantes pour les oiseaux,Information touristique,48.3857455,-4.4832393,,https://www.openstreetmap.org/node/12208616911
+node/12980006745,En mémoire du 1er juillet 1941,Information touristique,48.3683595,-4.5952811,,https://www.openstreetmap.org/node/12980006745
+node/11225163668,Enceinte Médiévale des Pâquerettes,Information touristique,48.4117474,-4.2447648,,https://www.openstreetmap.org/node/11225163668
+node/11144808076,Entre Landes et Vallées,Information touristique,48.414331,-4.2289118,,https://www.openstreetmap.org/node/11144808076
+node/11144808077,Entre Landes et Vallées,Information touristique,48.4159473,-4.2291832,,https://www.openstreetmap.org/node/11144808077
+node/12321115207,Entre Landes et Vallées,Information touristique,48.4165444,-4.2298993,,https://www.openstreetmap.org/node/12321115207
+node/13815872142,Entre Landes et Vallées,Information touristique,48.3870652,-4.2307949,,https://www.openstreetmap.org/node/13815872142
+node/12230553348,Espace VTT d’Iroise,Information touristique,48.4672017,-4.5666707,,https://www.openstreetmap.org/node/12230553348
+node/9909995470,Expression Libre,Information touristique,48.3840914,-4.4998663,,https://www.openstreetmap.org/node/9909995470
+node/12498684698,Feunteun Sant-Gouenoù,Information touristique,48.3809618,-4.2048992,https://www.letelegramme.fr/finistere/irvillac-29460/a-irvillac-la-fontaine-saint-gouesnou-est-accessible-au-public-6736820.php,https://www.openstreetmap.org/node/12498684698
+node/12097272896,Fort de Toulbroc'h,Information touristique,48.3412158,-4.6278228,,https://www.openstreetmap.org/node/12097272896
+node/12451064571,Fort de Toulbroc'h,Information touristique,48.3408837,-4.6287392,,https://www.openstreetmap.org/node/12451064571
+node/12451095721,Fort de Toulbroc'h,Information touristique,48.341473,-4.6303666,,https://www.openstreetmap.org/node/12451095721
+node/5585050152,Forêt Domaniale du Gars,Information touristique,48.3351056,-4.2090452,,https://www.openstreetmap.org/node/5585050152
+node/7717389277,Forêt Domaniale du Gars,Information touristique,48.3333607,-4.2092239,,https://www.openstreetmap.org/node/7717389277
+node/7722193489,Forêt Domaniale du Gars,Information touristique,48.3303424,-4.2273382,,https://www.openstreetmap.org/node/7722193489
+node/13043415923,Gare de Saint-Renan,Information touristique,48.4343613,-4.6223575,,https://www.openstreetmap.org/node/13043415923
+node/11151445447,Geopark Armorique,Information touristique,48.3288139,-4.2425547,,https://www.openstreetmap.org/node/11151445447
+node/13043415929,"Grand lavoir, rue de la Fontaine",Information touristique,48.435323,-4.6225186,,https://www.openstreetmap.org/node/13043415929
+node/8602520948,Groupement Syndical Forestier Creac’h Ar Roual,Information touristique,48.4123688,-4.2456439,,https://www.openstreetmap.org/node/8602520948
+node/11897565963,Gwenodenn—Aod,Information touristique,48.3536754,-4.3049855,,https://www.openstreetmap.org/node/11897565963
+node/5857398450,Hent an Aod;La Littorale,Information touristique,48.3813189,-4.4883238,,https://www.openstreetmap.org/node/5857398450
+node/14374430585,Hent an Aod;La Littorale,Information touristique,48.3821419,-4.4868009,,https://www.openstreetmap.org/node/14374430585
+node/12092843323,Histoire de l'espace naturel de Bodonou,Information touristique,48.4108122,-4.5850909,,https://www.openstreetmap.org/node/12092843323
+node/9350398497,Hünfeld,Information touristique,48.4530409,-4.2447751,,https://www.openstreetmap.org/node/9350398497
+node/12451125474,IEEE Milestone : câble télégraphique transatlantique Brest-Déolen,Information touristique,48.3476647,-4.6397767,,https://www.openstreetmap.org/node/12451125474
+node/5018123884,Informations,Information touristique,48.3876663,-4.4800288,,https://www.openstreetmap.org/node/5018123884
+node/13481914856,L'ancienne centrale électrique souterraine,Information touristique,48.358713,-4.5412689,,https://www.openstreetmap.org/node/13481914856
+node/12752529602,L'anse de Kerhuon,Information touristique,48.4023564,-4.3826373,,https://www.openstreetmap.org/node/12752529602
+node/12090351444,L'histoire des quais,Information touristique,48.4485827,-4.2517137,,https://www.openstreetmap.org/node/12090351444
+node/9986994269,L'église Saint-Houardon,Information touristique,48.4516759,-4.2511597,,https://www.openstreetmap.org/node/9986994269
+node/10543077040,La Chapelle Saint-Christophe,Information touristique,48.3483322,-4.236694,,https://www.openstreetmap.org/node/10543077040
+node/9423645018,La Littorale,Information touristique,48.3613409,-4.2618276,,https://www.openstreetmap.org/node/9423645018
+node/14112164965,La Maison de la Sénéchaussée,Information touristique,48.4505416,-4.2501485,,https://www.openstreetmap.org/node/14112164965
+node/12803706608,La Pointe des Espagnols,Information touristique,48.3393149,-4.5369872,,https://www.openstreetmap.org/node/12803706608
+node/9666621657,"La Roche Maurice, Bourd Castral",Information touristique,48.4728808,-4.2060861,,https://www.openstreetmap.org/node/9666621657
+node/12803724073,La batterie et la pointe des Espagnols,Information touristique,48.3412686,-4.5337249,,https://www.openstreetmap.org/node/12803724073
+node/12803728488,La défense terrestre : se protéger  contre les attaques surprises,Information touristique,48.3397435,-4.5363776,,https://www.openstreetmap.org/node/12803728488
+node/13828562950,La fabrique de porcelaine,Information touristique,48.3600733,-4.2609049,https://daoulas.bzh,https://www.openstreetmap.org/node/13828562950
+node/12090351449,La maison Gillart,Information touristique,48.450042,-4.2491527,,https://www.openstreetmap.org/node/12090351449
+node/12090351465,La maison des maîtres verriers Félep,Information touristique,48.451791,-4.2519459,,https://www.openstreetmap.org/node/12090351465
+node/12090353171,La maison violette,Information touristique,48.4523943,-4.2526448,,https://www.openstreetmap.org/node/12090353171
+node/11694570299,"La prairie fleurie, qu'est ce que c'est ?",Information touristique,48.3859548,-4.4835103,,https://www.openstreetmap.org/node/11694570299
+node/12803724072,La presqu’île de Crozon et la défense de Brest,Information touristique,48.3412725,-4.5337472,,https://www.openstreetmap.org/node/12803724072
+node/11107167581,La raboteuse Berthiez,Information touristique,48.3892848,-4.4981875,,https://www.openstreetmap.org/node/11107167581
+node/11353631981,La raboteuse Berthiez,Information touristique,48.3890482,-4.4983727,,https://www.openstreetmap.org/node/11353631981
+node/13191216831,Lancement de l'opération 50 arbres,Information touristique,48.3997426,-4.5005289,,https://www.openstreetmap.org/node/13191216831
+node/5321865358,Landerneau,Information touristique,48.4534119,-4.2566486,,https://www.openstreetmap.org/node/5321865358
+node/13718581961,Le Fort du Portzic - Fort de terre,Information touristique,48.3602311,-4.5444842,,https://www.openstreetmap.org/node/13718581961
+node/13815872168,Le Kanndi de Penbran,Information touristique,48.3851787,-4.22938,,https://www.openstreetmap.org/node/13815872168
+node/12809405294,Le Relecq Kerhuon Info Tourisme,Information touristique,48.3917158,-4.4033319,,https://www.openstreetmap.org/node/12809405294
+node/9666621668,Le Roc’h Morvan : Une Forteresse Féodale,Information touristique,48.4727904,-4.2048114,,https://www.openstreetmap.org/node/9666621668
+node/13185092950,Le champ de foire,Information touristique,48.4504559,-4.2442719,,https://www.openstreetmap.org/node/13185092950
+node/13358459152,Le cycle de vie du pommier,Information touristique,48.5022376,-4.4318257,,https://www.openstreetmap.org/node/13358459152
+node/14081675149,Le lac communal,Information touristique,48.4920979,-4.5033983,,https://www.openstreetmap.org/node/14081675149
+node/13471031590,Le phare du Portzic,Information touristique,48.3583089,-4.535617,,https://www.openstreetmap.org/node/13471031590
+node/12090353170,Le pont de Rohan,Information touristique,48.4500409,-4.2491601,,https://www.openstreetmap.org/node/12090353170
+node/9558246086,Le vallon de Milin Nevez,Information touristique,48.4866525,-4.2434689,,https://www.openstreetmap.org/node/9558246086
+node/12997990341,Les Oiseaux Hivernants de la Rade de Brest,Information touristique,48.3417577,-4.2857199,,https://www.openstreetmap.org/node/12997990341
+node/14107461543,Les bancs de maërl,Information touristique,48.3289071,-4.3174053,,https://www.openstreetmap.org/node/14107461543
+node/12803730662,Les batteries de côte,Information touristique,48.3409694,-4.5339137,,https://www.openstreetmap.org/node/12803730662
+node/3808301822,Les circuits du Parc de Creac'h ar Roual,Information touristique,48.4124167,-4.2458239,,https://www.openstreetmap.org/node/3808301822
+node/12090351468,Les foires et marchés,Information touristique,48.4507396,-4.2502427,,https://www.openstreetmap.org/node/12090351468
+node/12803705454,Les forifications permanentes,Information touristique,48.3402806,-4.5348074,,https://www.openstreetmap.org/node/12803705454
+node/12803716733,Les formes légères de la fortification,Information touristique,48.3398493,-4.5359209,,https://www.openstreetmap.org/node/12803716733
+node/12090351463,Les matériaux de construction,Information touristique,48.4498623,-4.2504153,,https://www.openstreetmap.org/node/12090351463
+node/10080609561,Les oiseaux de l'étang du Caro,Information touristique,48.3428583,-4.4383167,,https://www.openstreetmap.org/node/10080609561
+node/12803724071,Les ouvrages fortifiés du Goulet et de la rade de Brest,Information touristique,48.3412722,-4.5337364,,https://www.openstreetmap.org/node/12803724071
+node/9558373480,Les tranchées de Plouédern,Information touristique,48.4646289,-4.2484513,,https://www.openstreetmap.org/node/9558373480
+node/13043415907,Les échos du grand lavoir,Information touristique,48.4352318,-4.6224761,,https://www.openstreetmap.org/node/13043415907
+node/5587767335,Légende de Saint-Conval,Information touristique,48.3379939,-4.2081982,,https://www.openstreetmap.org/node/5587767335
+node/12803754757,L’artillerie de côte,Information touristique,48.340679,-4.5338423,,https://www.openstreetmap.org/node/12803754757
+node/1811224617,L’enceinte basse,Information touristique,48.4728372,-4.2050326,,https://www.openstreetmap.org/node/1811224617
+node/12465382468,Machine à vent - le moulin de Ru Vras,Information touristique,48.3477161,-4.6518401,,https://www.openstreetmap.org/node/12465382468
+node/13513948407,Maison Blanche,Information touristique,48.3630505,-4.5305966,,https://www.openstreetmap.org/node/13513948407
+node/6387605909,Maison du Pauvre Petit Bonhomme,Information touristique,48.4498241,-4.2489513,,https://www.openstreetmap.org/node/6387605909
+node/11107167588,Musée de la tour Tanguy,Information touristique,48.3834462,-4.4972111,,https://www.openstreetmap.org/node/11107167588
+node/440188608,Office de Tourisme,Information touristique,48.3882444,-4.4852207,,https://www.openstreetmap.org/node/440188608
+node/6703020304,Office de Tourisme Iroise Bretagne,Information touristique,48.4327552,-4.6233211,,https://www.openstreetmap.org/node/6703020304
+node/728759132,Office du Tourisme,Information touristique,48.374719,-4.3702823,,https://www.openstreetmap.org/node/728759132
+node/2406170468,Office du Tourisme,Information touristique,48.4507309,-4.2501153,https://www.tourisme-landerneau-daoulas.fr/,https://www.openstreetmap.org/node/2406170468
+node/11053241565,Parcours de Pêche de la Mignonne,Information touristique,48.3643187,-4.256942,,https://www.openstreetmap.org/node/11053241565
+node/11813470972,Parcours permanent d'orientation campus ubo Brest,Information touristique,48.3980248,-4.502141,,https://www.openstreetmap.org/node/11813470972
+node/13014188238,Parking Sentier Côtier,Information touristique,48.3345805,-4.2994668,,https://www.openstreetmap.org/node/13014188238
+node/12475638092,"Paysage, le choix de l'homme",Information touristique,48.4134553,-4.5465988,,https://www.openstreetmap.org/node/12475638092
+node/6736512405,Penfoul,Information touristique,48.3624537,-4.3176675,,https://www.openstreetmap.org/node/6736512405
+node/10073455352,"Penn ar Ster, Saint-Guénolé, le port de lauberlac'h",Information touristique,48.336975,-4.4148283,,https://www.openstreetmap.org/node/10073455352
+node/12998792134,Piège à déchets : les filets de rétention,Information touristique,48.3686599,-4.5856954,,https://www.openstreetmap.org/node/12998792134
+node/13043415926,Place aux cochons,Information touristique,48.4346619,-4.6223228,,https://www.openstreetmap.org/node/13043415926
+node/13043415914,Place aux vaches,Information touristique,48.43223,-4.6251013,,https://www.openstreetmap.org/node/13043415914
+node/13043415939,Place du vieux marché,Information touristique,48.4328341,-4.6231855,,https://www.openstreetmap.org/node/13043415939
+node/7724827813,Plan de Saint-Urbain,Information touristique,48.4007182,-4.2279928,,https://www.openstreetmap.org/node/7724827813
+node/11107167587,Plateau des Capucins,Information touristique,48.3865696,-4.5006125,,https://www.openstreetmap.org/node/11107167587
+node/6736512409,Plougastel à Vélo,Information touristique,48.3587348,-4.3407527,,https://www.openstreetmap.org/node/6736512409
+node/6736512411,Plougastel à Vélo,Information touristique,48.3735361,-4.371632,,https://www.openstreetmap.org/node/6736512411
+node/7685470015,Plougastel à Vélo,Information touristique,48.3575276,-4.4100626,,https://www.openstreetmap.org/node/7685470015
+node/9132462430,Plougastel à Vélo,Information touristique,48.3588795,-4.3556061,,https://www.openstreetmap.org/node/9132462430
+node/9483764301,Plougastel à Vélo,Information touristique,48.3635952,-4.3603934,,https://www.openstreetmap.org/node/9483764301
+node/9483787833,Plougastel à Vélo,Information touristique,48.3530408,-4.3389183,,https://www.openstreetmap.org/node/9483787833
+node/9483787834,Plougastel à Vélo,Information touristique,48.3533046,-4.3389693,,https://www.openstreetmap.org/node/9483787834
+node/9483787836,Plougastel à Vélo,Information touristique,48.3531637,-4.3388432,,https://www.openstreetmap.org/node/9483787836
+node/9484675714,Plougastel à Vélo,Information touristique,48.3708147,-4.3635973,,https://www.openstreetmap.org/node/9484675714
+node/6736512400,Plougastel-Daoulas,Information touristique,48.3727181,-4.3702608,,https://www.openstreetmap.org/node/6736512400
+node/7101784279,Plougastell war Velo,Information touristique,48.3744238,-4.3699688,,https://www.openstreetmap.org/node/7101784279
+node/4724301472,Pointe des Espagnols,Information touristique,48.3396388,-4.5369502,,https://www.openstreetmap.org/node/4724301472
+node/12803706609,Pointe des Espagnols (XVIe-XXIe siècles),Information touristique,48.3394073,-4.536979,,https://www.openstreetmap.org/node/12803706609
+node/12119869236,Pointe du Château,Information touristique,48.3346358,-4.3174943,,https://www.openstreetmap.org/node/12119869236
+node/12997253051,Pointe du Roz,Information touristique,48.3291351,-4.3184971,,https://www.openstreetmap.org/node/12997253051
+node/14058859050,"Port, quai et activités",Information touristique,48.3591323,-4.2615393,,https://www.openstreetmap.org/node/14058859050
+node/440143808,Porte Saint-Louis,Information touristique,48.3900552,-4.4868701,,https://www.openstreetmap.org/node/440143808
+node/11144808057,Projet De Centre d’Interprétation,Information touristique,48.4500395,-4.2489927,,https://www.openstreetmap.org/node/11144808057
+node/6125301986,Périodes de Chasse,Information touristique,48.3378148,-4.2080466,,https://www.openstreetmap.org/node/6125301986
+node/7722193498,Périodes de Chasse,Information touristique,48.3305575,-4.2273425,,https://www.openstreetmap.org/node/7722193498
+node/6386110764,Pêche à Pied,Information touristique,48.3206669,-4.3248857,,https://www.openstreetmap.org/node/6386110764
+node/14107461538,Pêcher intelligent Pêcher durablement,Information touristique,48.3290688,-4.3178555,https://www.pecheapied-loisir.fr,https://www.openstreetmap.org/node/14107461538
+node/7708055980,Rand'Abers 10,Information touristique,48.5217334,-4.5258468,,https://www.openstreetmap.org/node/7708055980
+node/12070192757,Route de la Pierre et de l’Eau,Information touristique,48.3632698,-4.310496,,https://www.openstreetmap.org/node/12070192757
+node/12070192759,Route de la Pierre et de l’Eau,Information touristique,48.3635044,-4.3005243,,https://www.openstreetmap.org/node/12070192759
+node/13043415935,Rue Narval,Information touristique,48.4330951,-4.621128,,https://www.openstreetmap.org/node/13043415935
+node/1873674569,Sentier Côtier,Information touristique,48.3415276,-4.3290411,,https://www.openstreetmap.org/node/1873674569
+node/1873674570,Sentier Côtier,Information touristique,48.3431677,-4.3280176,,https://www.openstreetmap.org/node/1873674570
+node/1873674572,Sentier Côtier,Information touristique,48.343658,-4.3119867,,https://www.openstreetmap.org/node/1873674572
+node/1873674573,Sentier Côtier,Information touristique,48.3444576,-4.3013954,,https://www.openstreetmap.org/node/1873674573
+node/1873674574,Sentier Côtier,Information touristique,48.3451295,-4.3306375,,https://www.openstreetmap.org/node/1873674574
+node/1873674575,Sentier Côtier,Information touristique,48.346771,-4.3303786,,https://www.openstreetmap.org/node/1873674575
+node/1873674576,Sentier Côtier,Information touristique,48.3481117,-4.3293078,,https://www.openstreetmap.org/node/1873674576
+node/1873674577,Sentier Côtier,Information touristique,48.3487363,-4.3271882,,https://www.openstreetmap.org/node/1873674577
+node/1873674578,Sentier Côtier,Information touristique,48.3507899,-4.3261124,,https://www.openstreetmap.org/node/1873674578
+node/1873674579,Sentier Côtier,Information touristique,48.3532563,-4.3257612,,https://www.openstreetmap.org/node/1873674579
+node/1873674580,Sentier Côtier,Information touristique,48.3611465,-4.3172516,,https://www.openstreetmap.org/node/1873674580
+node/3063516004,Sentier Côtier,Information touristique,48.3433059,-4.3190939,,https://www.openstreetmap.org/node/3063516004
+node/5839885663,Sentier Côtier,Information touristique,48.3219876,-4.2719038,,https://www.openstreetmap.org/node/5839885663
+node/5839885666,Sentier Côtier,Information touristique,48.3221453,-4.2710756,,https://www.openstreetmap.org/node/5839885666
+node/5839885670,Sentier Côtier,Information touristique,48.3211077,-4.2700415,,https://www.openstreetmap.org/node/5839885670
+node/5839917647,Sentier Côtier,Information touristique,48.3213521,-4.2782983,,https://www.openstreetmap.org/node/5839917647
+node/5839917651,Sentier Côtier,Information touristique,48.320625,-4.2784454,,https://www.openstreetmap.org/node/5839917651
+node/5839917656,Sentier Côtier,Information touristique,48.3205535,-4.2755938,,https://www.openstreetmap.org/node/5839917656
+node/5839950770,Sentier Côtier,Information touristique,48.3195596,-4.282477,,https://www.openstreetmap.org/node/5839950770
+node/5839950778,Sentier Côtier,Information touristique,48.322854,-4.2838396,,https://www.openstreetmap.org/node/5839950778
+node/5839950780,Sentier Côtier,Information touristique,48.3232396,-4.2828488,,https://www.openstreetmap.org/node/5839950780
+node/5864500307,Sentier Côtier,Information touristique,48.321378,-4.2787202,,https://www.openstreetmap.org/node/5864500307
+node/5864500319,Sentier Côtier,Information touristique,48.3196935,-4.2713542,,https://www.openstreetmap.org/node/5864500319
+node/5865189598,Sentier Côtier,Information touristique,48.3195325,-4.2810745,,https://www.openstreetmap.org/node/5865189598
+node/6739746273,Sentier Côtier,Information touristique,48.3336917,-4.3011103,,https://www.openstreetmap.org/node/6739746273
+node/6742109184,Sentier Côtier,Information touristique,48.3326394,-4.3041428,,https://www.openstreetmap.org/node/6742109184
+node/6742114285,Sentier Côtier,Information touristique,48.3326439,-4.3041831,,https://www.openstreetmap.org/node/6742114285
+node/8986345075,Sentier Côtier,Information touristique,48.3191641,-4.2854664,,https://www.openstreetmap.org/node/8986345075
+node/8986345105,Sentier Côtier,Information touristique,48.3216466,-4.2866031,,https://www.openstreetmap.org/node/8986345105
+node/10293852741,Sentier Côtier,Information touristique,48.344943,-4.2779777,,https://www.openstreetmap.org/node/10293852741
+node/10302453445,Sentier Côtier,Information touristique,48.3244527,-4.3144442,,https://www.openstreetmap.org/node/10302453445
+node/11443367228,Sentier Côtier,Information touristique,48.3157414,-4.2872319,,https://www.openstreetmap.org/node/11443367228
+node/11443367229,Sentier Côtier,Information touristique,48.3156386,-4.2868582,,https://www.openstreetmap.org/node/11443367229
+node/11476347596,Sentier Côtier,Information touristique,48.3325343,-4.3128429,,https://www.openstreetmap.org/node/11476347596
+node/11476347601,Sentier Côtier,Information touristique,48.3327351,-4.3116501,,https://www.openstreetmap.org/node/11476347601
+node/11476347609,Sentier Côtier,Information touristique,48.332251,-4.3137606,,https://www.openstreetmap.org/node/11476347609
+node/11480617586,Sentier Côtier,Information touristique,48.3174913,-4.2930257,,https://www.openstreetmap.org/node/11480617586
+node/11480617600,Sentier Côtier,Information touristique,48.31517,-4.2892168,,https://www.openstreetmap.org/node/11480617600
+node/11480617602,Sentier Côtier,Information touristique,48.3161868,-4.2917051,,https://www.openstreetmap.org/node/11480617602
+node/11484277316,Sentier Côtier,Information touristique,48.3192882,-4.2823833,,https://www.openstreetmap.org/node/11484277316
+node/11897628405,Sentier Côtier,Information touristique,48.3555614,-4.3025419,,https://www.openstreetmap.org/node/11897628405
+node/12333392557,Sentier Côtier,Information touristique,48.343311,-4.3190459,,https://www.openstreetmap.org/node/12333392557
+node/12486961514,Sentier Côtier,Information touristique,48.3219075,-4.2903502,,https://www.openstreetmap.org/node/12486961514
+node/12488874468,Sentier Côtier,Information touristique,48.32386,-4.312803,,https://www.openstreetmap.org/node/12488874468
+node/12987502502,Sentier Côtier,Information touristique,48.3184373,-4.2919807,,https://www.openstreetmap.org/node/12987502502
+node/12987502505,Sentier Côtier,Information touristique,48.3206541,-4.290057,,https://www.openstreetmap.org/node/12987502505
+node/12997253047,Sentier Côtier,Information touristique,48.3158228,-4.3297999,,https://www.openstreetmap.org/node/12997253047
+node/12997253064,Sentier Côtier,Information touristique,48.3221251,-4.319056,,https://www.openstreetmap.org/node/12997253064
+node/12997990331,Sentier Côtier,Information touristique,48.3374877,-4.2996005,,https://www.openstreetmap.org/node/12997990331
+node/12997990334,Sentier Côtier,Information touristique,48.3449101,-4.2778633,,https://www.openstreetmap.org/node/12997990334
+node/12997990372,Sentier Côtier,Information touristique,48.3374255,-4.2990617,,https://www.openstreetmap.org/node/12997990372
+node/13001847527,Sentier Côtier,Information touristique,48.337488,-4.3024309,,https://www.openstreetmap.org/node/13001847527
+node/13005497068,Sentier Côtier,Information touristique,48.3415761,-4.2862605,,https://www.openstreetmap.org/node/13005497068
+node/13005497083,Sentier Côtier,Information touristique,48.3419918,-4.2874021,,https://www.openstreetmap.org/node/13005497083
+node/13005497078,Sentier Littoral de Rosmelec,Information touristique,48.3458519,-4.2776423,,https://www.openstreetmap.org/node/13005497078
+node/12941643316,Sentier Nature de Kérivin,Information touristique,48.4765547,-4.375146,,https://www.openstreetmap.org/node/12941643316
+node/7717389283,Sentier des Crêtes,Information touristique,48.3292813,-4.2414686,,https://www.openstreetmap.org/node/7717389283
+node/7717392804,Sentier des Crêtes,Information touristique,48.3292832,-4.2414512,,https://www.openstreetmap.org/node/7717392804
+node/11144808062,Sentier des Crêtes,Information touristique,48.4980212,-4.2238138,,https://www.openstreetmap.org/node/11144808062
+node/11144808087,Sentier des Crêtes,Information touristique,48.4976623,-4.202752,,https://www.openstreetmap.org/node/11144808087
+node/11144876507,Sentier des Crêtes,Information touristique,48.4749585,-4.204669,,https://www.openstreetmap.org/node/11144876507
+node/11144876508,Sentier des Crêtes,Information touristique,48.4935477,-4.2031361,,https://www.openstreetmap.org/node/11144876508
+node/11144876512,Sentier des Crêtes,Information touristique,48.5042558,-4.2540227,,https://www.openstreetmap.org/node/11144876512
+node/11144876515,Sentier des Crêtes,Information touristique,48.472316,-4.2039062,,https://www.openstreetmap.org/node/11144876515
+node/11144876516,Sentier des Crêtes,Information touristique,48.4979122,-4.2239331,,https://www.openstreetmap.org/node/11144876516
+node/11161670245,Sentier des Crêtes,Information touristique,48.4976037,-4.2386628,,https://www.openstreetmap.org/node/11161670245
+node/11161670250,Sentier des Crêtes,Information touristique,48.5086787,-4.2459755,,https://www.openstreetmap.org/node/11161670250
+node/11161670263,Sentier des Crêtes,Information touristique,48.5041619,-4.2412348,,https://www.openstreetmap.org/node/11161670263
+node/11161670285,Sentier des Crêtes,Information touristique,48.5060351,-4.2118763,,https://www.openstreetmap.org/node/11161670285
+node/11161670298,Sentier des Crêtes,Information touristique,48.508733,-4.2458839,,https://www.openstreetmap.org/node/11161670298
+node/11161670301,Sentier des Crêtes,Information touristique,48.4975837,-4.2386619,,https://www.openstreetmap.org/node/11161670301
+node/11144808089,Sentier des arbres de Boloré,Information touristique,48.4955907,-4.2209725,,https://www.openstreetmap.org/node/11144808089
+node/11144808099,Sentier des arbres de Boloré,Information touristique,48.4943183,-4.2200531,,https://www.openstreetmap.org/node/11144808099
+node/11144808101,Sentier des arbres de Boloré,Information touristique,48.495254,-4.2158193,,https://www.openstreetmap.org/node/11144808101
+node/6744790759,Sentier du Littoral,Information touristique,48.3360272,-4.2333178,,https://www.openstreetmap.org/node/6744790759
+node/6744790762,Sentier du Littoral,Information touristique,48.3360211,-4.2332817,,https://www.openstreetmap.org/node/6744790762
+node/6744790766,Sentier du Littoral,Information touristique,48.328699,-4.2329608,,https://www.openstreetmap.org/node/6744790766
+node/6744790768,Sentier du Littoral,Information touristique,48.3287305,-4.232993,,https://www.openstreetmap.org/node/6744790768
+node/7717389270,Sentier du Littoral,Information touristique,48.33523,-4.2088481,,https://www.openstreetmap.org/node/7717389270
+node/7717392786,Sentier du Littoral,Information touristique,48.3197604,-4.2074874,,https://www.openstreetmap.org/node/7717392786
+node/7717392800,Sentier du Littoral,Information touristique,48.335218,-4.208865,,https://www.openstreetmap.org/node/7717392800
+node/7717392807,Sentier du Littoral,Information touristique,48.3197685,-4.2074494,,https://www.openstreetmap.org/node/7717392807
+node/7722187880,Sentier du Littoral,Information touristique,48.3282148,-4.2261878,,https://www.openstreetmap.org/node/7722187880
+node/7722193503,Sentier du Littoral,Information touristique,48.3281901,-4.2261986,,https://www.openstreetmap.org/node/7722193503
+node/7727100944,Sentier du Littoral,Information touristique,48.3615445,-4.2668214,,https://www.openstreetmap.org/node/7727100944
+node/7727100959,Sentier du Littoral,Information touristique,48.3619292,-4.2648806,,https://www.openstreetmap.org/node/7727100959
+node/8287053634,Sentier du Littoral,Information touristique,48.3004248,-4.2244606,,https://www.openstreetmap.org/node/8287053634
+node/8287053635,Sentier du Littoral,Information touristique,48.3000323,-4.2280663,,https://www.openstreetmap.org/node/8287053635
+node/10310724883,Sentier du Littoral,Information touristique,48.3033843,-4.2335808,,https://www.openstreetmap.org/node/10310724883
+node/11142477163,Sentier du Littoral,Information touristique,48.3053408,-4.221599,,https://www.openstreetmap.org/node/11142477163
+node/11142477164,Sentier du Littoral,Information touristique,48.3053782,-4.2215626,,https://www.openstreetmap.org/node/11142477164
+node/11142477179,Sentier du Littoral,Information touristique,48.3051497,-4.2325999,,https://www.openstreetmap.org/node/11142477179
+node/11151445437,Sentier du Littoral,Information touristique,48.3134035,-4.2067497,,https://www.openstreetmap.org/node/11151445437
+node/11151445439,Sentier du Littoral,Information touristique,48.3134147,-4.206754,,https://www.openstreetmap.org/node/11151445439
+node/6403589259,Site de Moulin-Mer,Information touristique,48.3157627,-4.2867714,,https://www.openstreetmap.org/node/6403589259
+node/10080591815,Site de compensation écologique du Fort du Corbeau,Information touristique,48.3499083,-4.4418117,,https://www.openstreetmap.org/node/10080591815
+node/10080610873,Site de compensation écologique du Fort du Corbeau,Information touristique,48.3498917,-4.4426317,,https://www.openstreetmap.org/node/10080610873
+node/13124458215,Station d'épuration Toull ar Ranig,Information touristique,48.3662202,-4.3790863,,https://www.openstreetmap.org/node/13124458215
+node/12465377708,Surveiller la côte - maison des douaniers,Information touristique,48.3476648,-4.6519787,,https://www.openstreetmap.org/node/12465377708
+node/4357377529,Tourbière de Langazel,Information touristique,48.5068052,-4.2727117,,https://www.openstreetmap.org/node/4357377529
+node/9666621662,Un “Très Bon Chasteau Fort”,Information touristique,48.4728035,-4.2048919,,https://www.openstreetmap.org/node/9666621662
+node/9493720523,Verger Conservatoire du GSF,Information touristique,48.410091,-4.246192,,https://www.openstreetmap.org/node/9493720523
+node/7101784277,Voies Vertes de Bretagne,Information touristique,48.3745529,-4.3693817,,https://www.openstreetmap.org/node/7101784277
+node/13019879639,Véloroute Laderneau Daoulas,Information touristique,48.3732085,-4.2770522,,https://www.openstreetmap.org/node/13019879639
+node/13019879705,Véloroute Laderneau Daoulas,Information touristique,48.3751608,-4.2734701,,https://www.openstreetmap.org/node/13019879705
+node/13019809394,Véloroute Landerneau Daoulas,Information touristique,48.3983493,-4.2698182,,https://www.openstreetmap.org/node/13019809394
+node/13019879602,Véloroute Landerneau Daoulas,Information touristique,48.4375354,-4.2698415,,https://www.openstreetmap.org/node/13019879602
+node/13019879606,Véloroute Landerneau Daoulas,Information touristique,48.4165401,-4.2723196,,https://www.openstreetmap.org/node/13019879606
+node/13019879614,Véloroute Landerneau Daoulas,Information touristique,48.4115744,-4.2674055,,https://www.openstreetmap.org/node/13019879614
+node/13019879616,Véloroute Landerneau Daoulas,Information touristique,48.4390459,-4.2677193,,https://www.openstreetmap.org/node/13019879616
+node/13019879617,Véloroute Landerneau Daoulas,Information touristique,48.3841438,-4.2808776,,https://www.openstreetmap.org/node/13019879617
+node/13019879633,Véloroute Landerneau Daoulas,Information touristique,48.395654,-4.2767434,,https://www.openstreetmap.org/node/13019879633
+node/13019879649,Véloroute Landerneau Daoulas,Information touristique,48.4424256,-4.267823,,https://www.openstreetmap.org/node/13019879649
+node/13019879656,Véloroute Landerneau Daoulas,Information touristique,48.4204134,-4.2731241,,https://www.openstreetmap.org/node/13019879656
+node/13019879658,Véloroute Landerneau Daoulas,Information touristique,48.3840091,-4.2809273,,https://www.openstreetmap.org/node/13019879658
+node/13019879662,Véloroute Landerneau Daoulas,Information touristique,48.4158086,-4.2714146,,https://www.openstreetmap.org/node/13019879662
+node/13019879668,Véloroute Landerneau Daoulas,Information touristique,48.41141,-4.267555,,https://www.openstreetmap.org/node/13019879668
+node/13019879682,Véloroute Landerneau Daoulas,Information touristique,48.4203194,-4.2731751,,https://www.openstreetmap.org/node/13019879682
+node/13019879685,Véloroute Landerneau Daoulas,Information touristique,48.4160181,-4.271483,,https://www.openstreetmap.org/node/13019879685
+node/13019879688,Véloroute Landerneau Daoulas,Information touristique,48.4017256,-4.271223,,https://www.openstreetmap.org/node/13019879688
+node/13019879692,Véloroute Landerneau Daoulas,Information touristique,48.4278977,-4.2667213,,https://www.openstreetmap.org/node/13019879692
+node/13019879693,Véloroute Landerneau Daoulas,Information touristique,48.3751016,-4.273835,,https://www.openstreetmap.org/node/13019879693
+node/13019879695,Véloroute Landerneau Daoulas,Information touristique,48.3981419,-4.2698764,,https://www.openstreetmap.org/node/13019879695
+node/13019879712,Véloroute Landerneau Daoulas,Information touristique,48.4166803,-4.2722357,,https://www.openstreetmap.org/node/13019879712
+node/14365963942,Véloroute Landerneau Daoulas,Information touristique,48.3794859,-4.2927374,,https://www.openstreetmap.org/node/14365963942
+node/7688807494,Véloroutes de Bretagne,Information touristique,48.3590532,-4.3318531,,https://www.openstreetmap.org/node/7688807494
+node/13607709911,la plage de Sainte-Anne du Portzic,Information touristique,48.3618868,-4.5539967,,https://www.openstreetmap.org/node/13607709911
+node/6580595777,la société linière du Finistère,Information touristique,48.4577881,-4.2382229,,https://www.openstreetmap.org/node/6580595777
+node/13464072003,le fort du Portzic,Information touristique,48.3597275,-4.5328175,,https://www.openstreetmap.org/node/13464072003
+node/13464065062,les bunkers de la pointe du Portzic,Information touristique,48.3580266,-4.5338725,,https://www.openstreetmap.org/node/13464065062
+node/14067074651,plan,Information touristique,48.4073256,-4.4851691,,https://www.openstreetmap.org/node/14067074651
+node/14067089619,plan,Information touristique,48.4042474,-4.4880753,,https://www.openstreetmap.org/node/14067089619
+node/14026972115,plan cimetière,Information touristique,48.3998985,-4.4719606,,https://www.openstreetmap.org/node/14026972115
+node/14026972251,plan cimetière,Information touristique,48.3999566,-4.4748098,,https://www.openstreetmap.org/node/14026972251
+node/13149646501,plan du site,Information touristique,48.3923625,-4.4880861,,https://www.openstreetmap.org/node/13149646501
+node/14026972124,souvenir français,Information touristique,48.3999662,-4.4720142,,https://www.openstreetmap.org/node/14026972124
+node/2537277188,Écomusée de la Meunerie,Information touristique,48.3616754,-4.2612177,,https://www.openstreetmap.org/node/2537277188
+way/910137897,70.8,Musées,48.3901634,-4.498191,https://www.70point8.com,https://www.openstreetmap.org/way/910137897
+way/1224038128,70.8,Musées,48.3901634,-4.498191,https://www.70point8.com,https://www.openstreetmap.org/way/1224038128
+way/42608066,Espace du Sapeur-Pompier,Musées,48.3817739,-4.367954,https://udsp29.com/union-departementale-sapeurs-pompiers-finistere/espace-sapeur/,https://www.openstreetmap.org/way/42608066
+node/8826272182,Fonds Hélène & Édouard Leclerc pour la Culture,Musées,48.4530241,-4.2537945,https://www.fonds-culturel-leclerc.fr/,https://www.openstreetmap.org/node/8826272182
+way/37178906,Fort Montbarey,Musées,48.3782153,-4.5483614,https://montbarey.fr/,https://www.openstreetmap.org/way/37178906
+way/700737662,La Briqueterie,Musées,48.4585516,-4.2371406,https://www.tourisme-landerneau-daoulas.fr/decouvrir/actualites/la-grande-briqueterie-de-landerneau-46235,https://www.openstreetmap.org/way/700737662
+node/13081227826,Le Lavoir,Musées,48.3893467,-4.5031215,https://www.lacarreebrest.fr/le-cabinet-de-curiosite/,https://www.openstreetmap.org/node/13081227826
+node/12453217262,Maison de la photographie,Musées,48.3940972,-4.4795782,https://maisondelaphotographie.fr/,https://www.openstreetmap.org/node/12453217262
+way/89831984,Maison du patrimoine de La Roche-Maurice,Musées,48.472894,-4.2048005,,https://www.openstreetmap.org/way/89831984
+node/9584066502,Musée Ti Gwechall,Musées,48.3972916,-4.2694347,https://www.tourisme-landerneau-daoulas.fr/activite/musee-ti-gwechall/,https://www.openstreetmap.org/node/9584066502
+node/14334449470,Musée de la forge,Musées,48.4908776,-4.4214708,,https://www.openstreetmap.org/node/14334449470
+way/730880579,Musée des Beaux-Arts,Musées,48.3850276,-4.49024,https://musee.brest.fr/,https://www.openstreetmap.org/way/730880579
+node/2591268818,Musée du Patrimoine,Musées,48.4521372,-4.4688606,https://www.gouesnou.bzh/actualites/musee-du-patrimoine/,https://www.openstreetmap.org/node/2591268818
+way/42604731,Musée du Pays Plougastel,Musées,48.3746306,-4.370633,https://www.museepaysplougastel.fr,https://www.openstreetmap.org/way/42604731
+way/53675641,Musée du Ponant,Musées,48.4323694,-4.623043,https://www.museeduponant.com/,https://www.openstreetmap.org/way/53675641
+node/5882540291,Musée national de la Marine,Musées,48.381272,-4.4923642,http://www.musee-marine.fr/brest,https://www.openstreetmap.org/node/5882540291
+way/89703235,Ossuaire Saint-Cadou,Musées,48.4487679,-4.2493322,,https://www.openstreetmap.org/way/89703235
+way/42579794,Tour Tanguy,Musées,48.3833768,-4.4971217,,https://www.openstreetmap.org/way/42579794
+node/3622719288,Belvédère,Points de vue,48.384027,-4.5121761,,https://www.openstreetmap.org/node/3622719288
+node/8354948105,Belvédère,Points de vue,48.3852284,-4.5122159,,https://www.openstreetmap.org/node/8354948105
+node/150754348,Belvédère de Kerdéniel,Points de vue,48.3270964,-4.4449011,,https://www.openstreetmap.org/node/150754348
+node/12862689001,Bute du Costour,Points de vue,48.4030306,-4.428592,,https://www.openstreetmap.org/node/12862689001
+way/184422864,Château de La Roche-Maurice,Points de vue,48.4730243,-4.2053636,,https://www.openstreetmap.org/way/184422864
+node/739776038,Cours Dajot,Points de vue,48.3833632,-4.4877932,,https://www.openstreetmap.org/node/739776038
+node/739776107,Fort du Dellec,Points de vue,48.3519105,-4.5674591,,https://www.openstreetmap.org/node/739776107
+node/739775987,Kernizi,Points de vue,48.3662729,-4.425889,,https://www.openstreetmap.org/node/739775987
+node/739775996,Moulin Blanc,Points de vue,48.3968919,-4.4225268,,https://www.openstreetmap.org/node/739775996
+node/2153275106,Moulin de Penfoul,Points de vue,48.3622461,-4.3174522,,https://www.openstreetmap.org/node/2153275106
+node/739776000,Panorama de Kernizi,Points de vue,48.3639673,-4.427545,,https://www.openstreetmap.org/node/739776000
+node/715501253,Parorama de Kéramenez,Points de vue,48.3341493,-4.4017624,,https://www.openstreetmap.org/node/715501253
+node/1370801434,Phare du Petit Minou,Points de vue,48.3366435,-4.614221,,https://www.openstreetmap.org/node/1370801434
+node/440188635,Point de Vue sur la Rade,Points de vue,48.3814539,-4.4908404,,https://www.openstreetmap.org/node/440188635
+node/2954341496,Point de vue sur la Rade de Brest,Points de vue,48.3717472,-4.4144445,,https://www.openstreetmap.org/node/2954341496
+node/8729300604,Poste d'artillerie du fort du Corbeau,Points de vue,48.3495029,-4.4445879,,https://www.openstreetmap.org/node/8729300604
+node/739776061,Terrasse de l'IUEM,Points de vue,48.3578103,-4.5618318,,https://www.openstreetmap.org/node/739776061
+node/247121664,Toulbroc'h,Points de vue,48.3411874,-4.6310233,,https://www.openstreetmap.org/node/247121664

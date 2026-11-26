@@ -1,0 +1,31 @@
+# Python
+.venv/
+.venv*/
+__pycache__/
+.pytest_cache/
+.ruff_cache/
+*.py[cod]
+.coverage
+htmlcov/
+
+# IDE and local settings
+.vscode/
+.idea/
+.DS_Store
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+
+# Local collection and warehouse
+data/raw/**
+!data/raw/.gitkeep
+data/local/**
+!data/local/.gitkeep
+*.duckdb
+*.duckdb.wal
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
